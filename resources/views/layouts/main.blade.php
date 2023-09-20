@@ -5,8 +5,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" href="{{ asset('img/faris-logo-64.png') }}">
   @vite(['resources/css/app.css', 'resources/js/app.js'])
-  <title>MSIB 5 - Coba Laravel</title>
+  <title>MSIB 5 - Tugas Laravel Controller dan View</title>
 </head>
 
 <body class="dark:bg-gray-950 dark:text-white">
